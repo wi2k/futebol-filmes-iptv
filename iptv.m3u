@@ -19,9 +19,9 @@ dex.m3u8
 
 ########## FILMES ##########
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="filmes",TNT HD
+#EXTINF:-1 group-title="filmes",TNT HD
 http://bit.ly/3Na4MYE
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="filmes",FX
+#EXTINF:-1 group-title="filmes",FX
 http://bit.ly/3KZz6TY
 
 #EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="filmes",Cine Terror | Brasil
