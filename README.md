@@ -5,4 +5,4 @@
 
 - Para assistir na TV, baixe o aplicativo ss-iptv ou assista direto no navegador acessando o site http://app.ss-iptv.com e depois clique em configurações>contéudo e crie uma playlist com um desses links...
 
-   `https://bit.ly/iptv-todos`  `https://bit.ly/iptv-futebol`
+   `https://bit.ly/iptv-futebol`
