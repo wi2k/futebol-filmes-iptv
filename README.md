@@ -1,8 +1,6 @@
 # IPTV 
 
 # COMO USAR
-- Baixe algum aplicativo que tenha suporte a m3u [VCL media player](https://www.videolan.org/vlc/) ou acesse http://app.ss-iptv.com
-- Abra o arquivo m3u ou Cole este link `https://bit.ly/filmes-iptv2022` no aplicativo iptv.
+- Para assistir no Computador abra o arquivo.m3u com [VCL Media Player](https://www.videolan.org/vlc/) ou algum outro aplicativo que tenha suporte a extensão m3u.
 
-
-	
+- Para assistir na TV baixe o aplicativo ss-iptv ou assista direto no navegador acessando o site http://app.ss-iptv.com vá em configurações>contéudo e crie uma playlist com este link `https://bit.ly/filmes-iptv2022`.
