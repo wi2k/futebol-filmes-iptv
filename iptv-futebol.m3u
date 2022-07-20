@@ -1,129 +1,30 @@
-#////////// Band Sports //////////#
-
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png", BAND SPORTS
-http://conexaoonline.top:80/6339721/3230605/37
-
-#///////// Premiere //////////#
-
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png",PREMIERE 2
-http://conexaoonline.top:80/6339721/3230605/71
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 3
-http://conexaoonline.top:80/6339721/3230605/72
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 4
-http://conexaoonline.top:80/6339721/3230605/73
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 5
-http://conexaoonline.top:80/6339721/3230605/101
-#EXTINF:-1 tvg-id="PREMIERE6" tvg-name="PREMIERE 6 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 6
-http://conexaoonline.top:80/6339721/3230605/102
-#EXTINF:-1 tvg-id="PREMIERE7" tvg-name="PREMIERE 7 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 7
-http://conexaoonline.top:80/6339721/3230605/115
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE 8
-http://conexaoonline.top:80/6339721/3230605/253
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png", PREMIERE CLUBES
-http://conexaoonline.top:80/6339721/3230605/70
-
-#////////// Espn //////////#
-
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 FHD H265" tvg-logo="http://rochagalaxia.live/logos/espn2250.png", ESPN 2
-http://conexaoonline.top:80/6339721/3230605/144
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD H265" tvg-logo="https://logodix.com/logo/1706918.png", ESPN 3
-http://conexaoonline.top:80/6339721/3230605/42
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/ESPN4_logo.png", ESPN 4
-http://conexaoonline.top:80/6339721/3230605/48
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png", ESPN EXTRA
-http://conexaoonline.top:80/6339721/3230605/88
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png", ESPN
-http://conexaoonline.top:80/6339721/3230605/43
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="ESTADIO TNT HD" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", ESTADIO TNT HD
-http://conexaoonline.top:80/6339721/3230605/109401
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="ESTADIO TNT HD 2" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", ESTADIO TNT HD 2
-http://conexaoonline.top:80/6339721/3230605/109400
-
-#////////// Fox Sports //////////#
-
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/foxsport2250.png", FOX SPORTS 2
-http://conexaoonline.top:80/6339721/3230605/49
-
-#////////// Tnt Sports //////////#
-
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS
-http://conexaoonline.top:80/6339721/3230605/109404
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 01 HD₁ - 24H ONDEMAND" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORT 1
-http://conexaoonline.top:80/6339721/3230605/110162
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 02 HD₁ - 24H ONDEMAND" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 2
-http://conexaoonline.top:80/6339721/3230605/110164
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 03 HD₁ - 24H ONDEMAND" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 3
-http://conexaoonline.top:80/6339721/3230605/110166
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 04 HD₁ - 24H ONDEMAND" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 4
-http://conexaoonline.top:80/6339721/3230605/110168
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 05 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORT 5
-http://conexaoonline.top:80/6339721/3230605/110170
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 06 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 6
-http://conexaoonline.top:80/6339721/3230605/110172
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 07 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 7
-http://conexaoonline.top:80/6339721/3230605/110174
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 08 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 8
-http://conexaoonline.top:80/6339721/3230605/110176
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 09 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 9
-http://conexaoonline.top:80/6339721/3230605/110178
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 10 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 10
-http://conexaoonline.top:80/6339721/3230605/110180
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 11 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 11
-http://conexaoonline.top:80/6339721/3230605/110182
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 12 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 12
-http://conexaoonline.top:80/6339721/3230605/110184
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 13 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 13
-http://conexaoonline.top:80/6339721/3230605/110186
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 14 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 14
-http://conexaoonline.top:80/6339721/3230605/110188
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 15 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 15
-http://conexaoonline.top:80/6339721/3230605/110190
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 16 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 16
-http://conexaoonline.top:80/6339721/3230605/110192
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 17 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 17
-http://conexaoonline.top:80/6339721/3230605/110194
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 18 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 18
-http://conexaoonline.top:80/6339721/3230605/110196
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 19 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 19
-http://conexaoonline.top:80/6339721/3230605/110198
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 2
-http://conexaoonline.top:80/6339721/3230605/109406
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 20 HD₁" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 20
-http://conexaoonline.top:80/6339721/3230605/110200
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 3 HD" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 3
-http://conexaoonline.top:80/6339721/3230605/109408
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS 4 HD" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 4
-http://conexaoonline.top:80/6339721/3230605/109409
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 5
-http://conexaoonline.top:80/6339721/3230605/109411
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 6
-http://conexaoonline.top:80/6339721/3230605/109413
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 HD" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 7
-http://conexaoonline.top:80/6339721/3230605/109415
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 HD" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS 8
-http://conexaoonline.top:80/6339721/3230605/109417
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="TNT SPORTS HD" tvg-logo="http://rochagalaxia.live/logos/tntstadio250.png", TNT SPORTS
-http://conexaoonline.top:80/6339721/3230605/109419
-
-#////////// Eleven Sports //////////#
-
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 01 HD₁ - 24H Ondemand" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 1
-http://conexaoonline.top:80/6339721/3230605/110756
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 02 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 2
-http://conexaoonline.top:80/6339721/3230605/110758
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 03 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 3
-http://conexaoonline.top:80/6339721/3230605/110760
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 04 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 4
-http://conexaoonline.top:80/6339721/3230605/110762
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 05 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 5
-http://conexaoonline.top:80/6339721/3230605/110764
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 06 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 6
-http://conexaoonline.top:80/6339721/3230605/110766
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 07 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 7
-http://conexaoonline.top:80/6339721/3230605/110768
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 08 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 8
-http://conexaoonline.top:80/6339721/3230605/110770
-#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 09 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 9
-http://conexaoonline.top:80/6339721/3230605/110772
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png", Eleven Sports 10
-http://conexaoonline.top:80/6339721/3230605/110774
+#EXTINF:-1,Premiere Clubes HD
+http://212.18.115.194:9088/play/a02z
+#EXTINF:-1,Conmebol TV 1
+http://212.18.115.194:9088/play/a039
+#EXTINF:-1,Conmebol TV 2
+http://212.18.115.194:9088/play/a03a
+#EXTINF:-1,Conmebol TV 3
+http://212.18.115.194:9088/play/a03b
+#EXTINF:-1,Conmebol TV 4
+http://212.18.115.194:9088/play/a03c
+#EXTINF:-1,ESPN
+http://212.18.115.194:9088/play/a02s
+#EXTINF:-1,ESPN 2
+http://212.18.115.194:9088/play/a02t
+#EXTINF:-1,ESPN Brasil
+http://212.18.115.194:9088/play/a02u
+#EXTINF:-1,ESPN Extra
+http://212.18.115.194:9088/play/a037
+#EXTINF:-1,FOX Sports
+http://212.18.115.194:9088/play/a02v
+#EXTINF:-1,FOX Sports 2
+http://212.18.115.194:9088/play/a02w
+#EXTINF:-1,SporTV
+http://212.18.115.194:9088/play/a02o
+#EXTINF:-1,SporTV 2
+http://212.18.115.194:9088/play/a02p
+#EXTINF:-1,SporTV 3
+http://212.18.115.194:9088/play/a02q
+#EXTINF:-1,SporTV 4
+http://212.18.115.194:9088/play/a02r
