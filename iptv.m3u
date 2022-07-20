@@ -1,18 +1,3 @@
-##10/07/2022
-##########FUTEBOL##########
-
-#EXTINF:-1 group-title="futebol",TNT SPORTS 2 BRASIL 720P
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-
-#EXTINF:-1 group-title="futebol",TNT SPORTS 3 BRASIL 480P
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-
-#EXTINF:-1 group-title="futebol",TNT SPORTS 4 BRASIL 720P
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-
-#EXTINF:-1 group-title="futebol",TNT SPORTS 5 BRASIL 720P
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-
 ########## FILMES ##########
 #EXTINF:-1 group-title="filmes",TNT HD
 http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
